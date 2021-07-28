@@ -1,10 +1,12 @@
-<b>welcome to team TAA's website</b>
-We are a team of 3 Ownterns where we are trying to get the used / unused devices to the underprivieged kids. 
-We are working this project with <b> raisetopi <b> in collaboration with <b> sikshana foundation <b> <br>
-<b> Your cooperation and kindness can be the source of education for these underprivileged kids. By donating your used / unused devices you will help them continue their education while the schools are closed. 
+<b>Welcome to team TAA's website</b>
+We are a team of 3 Ownterns where we are trying to get the used / unused electronic devices to the underprivieged kids. 
+We are working this project with <b> Raisetopi <b> in collaboration with <b> Sikshana 
+  Foundation <b> <br>
+<b> Your kindness and cooperation can be the source of education for these underprivileged kids. By donating your used / unused electronic devices you will help 
+  these underprivleged kids to continue their education while the schools are still closed. 
   < br >  <br>
   
- <b> to contact us please use this email id <b> taadonate@gmail.com
+ <b> To donate please contact us through this email id <b> taadonate@gmail.com
   
   <br>  <br>
   
