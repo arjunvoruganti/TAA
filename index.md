@@ -1,3 +1,4 @@
+
 ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127431635-4ddcb485-b711-4fd5-a219-d648445cfd48.jpg)
 
 
@@ -9,8 +10,12 @@ We are working this project with <b> Raisetopi <b> in collaboration with <b> Sik
 <b> Your kindness and cooperation can be the source of education for these underprivileged kids. By donating your used / unused electronic devices you will help 
   these underprivleged kids to continue their education while the schools are still closed. 
   < br >
+  ![Screenshot from 2021-07-29 10-04-44](https://user-images.githubusercontent.com/87887668/127432313-87f7782c-e00a-4d89-be66-830ed9a07164.jpg)
+ 
   
- <b> To donate please contact us through this email id <b> taadonate@gmail.com
+  
+  
+  <b> To donate please contact us through this email id <b> taadonate@gmail.com
   
   <br>  <br>
   
