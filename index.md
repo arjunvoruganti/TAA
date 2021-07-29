@@ -22,4 +22,4 @@ We are working this project with <b> Raisetopi <b> in collaboration with <b> Sik
 
   
    <b> What is Sikshana Foundaion <b> ?  <br> Sikshana Foundation began its operations in 2003 with a goal of improving the state of public education in the country. The foundation focuses on developing cost-effective replicable and scalable models which improve the learning levels delivered by the public institutions. The first such model called ‘Prerana’ a motivation-based intervention for primary schools has scaled to over 50,000 schools in six states, with Karnataka Education Department adopting the model and running it across all its schools in the state since 2017. The Foundation is in various stages of scaling its 'Tech in Classrom' intervention, 'Girl Empowerment Program' and is in development stage of its 'Employability Skills Program' for students of high schools, ITIs & Polytechnics. <br>
-    hhdhdhdhdhdh
+    
