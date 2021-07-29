@@ -17,7 +17,7 @@ We are working this project with <b> Raisetopi <b> in collaboration with <b> Sik
   
   To donate please contact us through this email id <b> taadonate@gmail.com
   
- ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127434403-12f7ecc9-b2a1-47e1-8e09-55cfec31b905.jpg) ![Screenshot from 2021-07-29 10-24-43](https://user-images.githubusercontent.com/87887668/127434222-f59f9148-813f-469b-a093-d08af714db3e.jpg)
+ ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127434403-12f7ecc9-b2a1-47e1-8e09-55cfec31b905.jpg)              ![Screenshot from 2021-07-29 10-24-43](https://user-images.githubusercontent.com/87887668/127434222-f59f9148-813f-469b-a093-d08af714db3e.jpg)
 
 
   
