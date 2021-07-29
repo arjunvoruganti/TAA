@@ -1,6 +1,4 @@
 ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127431635-4ddcb485-b711-4fd5-a219-d648445cfd48.jpg)
-
-![0001](https://user-images.githubusercontent.com/87887668/127419585-7f2343a0-9bba-43d1-9a1c-b455e556b091.jpg)
 <b>Welcome to team TAA's website</b>
 We are a team of 3 Ownterns where we are trying to get the used / unused electronic devices to the underprivieged kids. 
 We are working this project with <b> Raisetopi <b> in collaboration with <b> Sikshana 
