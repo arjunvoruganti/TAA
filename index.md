@@ -1,4 +1,3 @@
-![0001](https://user-images.githubusercontent.com/87887668/127419585-7f2343a0-9bba-43d1-9a1c-b455e556b091.jpg)
 <b>Welcome to team TAA's website</b>
 We are a team of 3 Ownterns where we are trying to get the used / unused electronic devices to the underprivieged kids. 
 We are working this project with <b> Raisetopi <b> in collaboration with <b> Sikshana 
@@ -6,7 +5,7 @@ We are working this project with <b> Raisetopi <b> in collaboration with <b> Sik
 <b> Your kindness and cooperation can be the source of education for these underprivileged kids. By donating your used / unused electronic devices you will help 
   these underprivleged kids to continue their education while the schools are still closed. 
   < br >  
-  <img src="https://github.com/arjunvoruganti/TAA/blob/main/0001.jpg">
+![0001](https://user-images.githubusercontent.com/87887668/127419585-7f2343a0-9bba-43d1-9a1c-b455e556b091.jpg)
   
  <b> To donate please contact us through this email id <b> taadonate@gmail.com
   
