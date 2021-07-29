@@ -1,7 +1,3 @@
-
-
-
-
 <b>Welcome to team TAA's website</b>
 We are a team of 3 Ownterns where we are trying to get the used / unused electronic devices to the underprivieged kids. 
 We are working this project with <b> Raisetopi <b> in collaboration with <b> Sikshana 
