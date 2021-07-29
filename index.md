@@ -5,6 +5,7 @@ We are working this project with <b> Raisetopi <b> in collaboration with <b> Sik
 <b> Your kindness and cooperation can be the source of education for these underprivileged kids. By donating your used / unused electronic devices you will help 
   these underprivleged kids to continue their education while the schools are still closed. 
   < br >  <br>
+  <img src=https://github.com/arjunvoruganti/TAA/blob/main/0001.jpg>
   
  <b> To donate please contact us through this email id <b> taadonate@gmail.com
   
