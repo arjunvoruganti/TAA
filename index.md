@@ -8,7 +8,7 @@ We are working this project with <b> Raisetopi <b> in collaboration with <b> Sik
   Foundation <b> <br>
 <b> Your kindness and cooperation can be the source of education for these underprivileged kids. By donating your used / unused electronic devices you will help 
   these underprivleged kids to continue their education while the schools are still closed. 
-  < br >
+  
   ![Screenshot from 2021-07-29 10-04-44](https://user-images.githubusercontent.com/87887668/127432752-ac567917-f563-4a3b-b01f-a498f67f6bb2.jpg)
 
  
