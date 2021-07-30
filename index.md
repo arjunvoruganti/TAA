@@ -18,5 +18,12 @@ We are working this project with <b> Raisetopi <b> in collaboration with <b> Sik
   What is sikshana pedia app ?   
 It is a project based learning app where students can complete their education at their own pace. It has the Facility to upload the project which automatically gets synced when connected to the internet. Teachers can provide feedback in the same projects in form of stars.Educational videos can be contextualised. For Eg, If I am studying maths the video automatically uses my name or my classmate’s name in the problems
 ![Screenshot from 2021-07-29 12-17-05](https://user-images.githubusercontent.com/87887668/127446839-64350b2f-2079-4197-b2eb-a50139c6d704.jpg)
+
+     
 <b> Plan of action <b>
-k
+our plan of action is to
+  1. Create a widespread pitch via social media / youtube video. 
+  2. Nominate volunteers around us and also createa web of volunteers to help collect and drop the donated devices to the foundation. ![Screenshot from 2021-07-30 20-01-58](https://user-images.githubusercontent.com/87887668/127668563-c2910a65-0f52-48a6-8b17-4292ebf3dff2.jpg)
+
+  3. Promote donation drive amongst family, Friends , school  and amongst residential Societies
+
