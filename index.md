@@ -1,6 +1,6 @@
 <b>Welcome to team Trio Warriors's website</b>
 We are a team of 3 Ownterns where we are trying to get the used / unused electronic devices to the underprivieged kids. 
-We are working this project with <b> https://www.raisetopi.org/ <b> in collaboration with <b> http://sikshana.org/ <b> <br>
+We are working this project with <b> RaiseToPi <b> in collaboration with <b> Sikshana Foundation <b> <br>
  Your kindness and cooperation can be the source of education for these underprivileged kids. By donating your used / unused electronic devices you will help 
   these underprivleged kids to continue their education while the schools are still closed. 
   
