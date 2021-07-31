@@ -4,7 +4,8 @@ We are working this project with <b> https://www.raisetopi.org/ <b> in collabora
  Your kindness and cooperation can be the source of education for these underprivileged kids. By donating your used / unused electronic devices you will help 
   these underprivleged kids to continue their education while the schools are still closed. 
   
-  ![Screenshot from 2021-07-29 10-04-44](https://user-images.githubusercontent.com/87887668/127432752-ac567917-f563-4a3b-b01f-a498f67f6bb2.jpg)
+  ![Screenshot from 2021-07-29 10-04-44](https://user-images.githubusercontent.com/87887668/127432752-ac567917-f563-4a3b-b01f-a498f67f6bb2.jpg) ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127729615-5ccc6ea6-b689-45c3-aff9-31f789f5e213.jpg)
+
 
   To donate please contact us through this email id <b> taadonate@gmail.com
   
