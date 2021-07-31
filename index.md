@@ -1,4 +1,4 @@
-<b>Welcome to team TAA's website</b>
+<b>Welcome to team Trio Warriors's website</b>
 We are a team of 3 Ownterns where we are trying to get the used / unused electronic devices to the underprivieged kids. 
 We are working this project with <b> https://www.raisetopi.org/ <b> in collaboration with <b> http://sikshana.org/ <b> <br>
  Your kindness and cooperation can be the source of education for these underprivileged kids. By donating your used / unused electronic devices you will help 
