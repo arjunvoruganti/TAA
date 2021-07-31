@@ -8,11 +8,12 @@ We are working this project with <b> https://www.raisetopi.org/ <b> in collabora
 
 
   To donate please contact us through this email id <b> taadonate@gmail.com
-  [Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127729615-5ccc6ea6-b689-45c3-aff9-31f789f5e213.jpg)
-![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/87887668/127437369-e6c60b15-c98c-4c1d-9d9b-9038df99e0aa.jpg)  
+ 
+ 
+ [Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127729615-5ccc6ea6-b689-45c3-aff9-31f789f5e213.jpg)  ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127729642-cc20fc50-20ec-4a2a-812b-49f0ef8b36df.jpg)
 
 
-  
+ 
    <b> What is Sikshana Foundaion <b> ?   <br> **Sikshana Foundation began its operations in 2003 with a goal of improving the state of public education in the country. The foundation focuses on developing cost-effective replicable and scalable models which improve the learning levels delivered by the public institutions. The first such model called ‘Prerana’ a motivation-based intervention for primary schools has scaled to over 50,000 schools in six states, with Karnataka Education Department adopting the model and running it across all its schools in the state since 2017. The Foundation is in various stages of scaling its 'Tech in Classrom' intervention, 'Girl Empowerment Program' and is in development stage of its 'Employability Skills Program' for students of high schools, ITIs & Polytechnics.           
      
   What is sikshana pedia app ?   
