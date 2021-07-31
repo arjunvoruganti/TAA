@@ -25,4 +25,5 @@ our plan of action is to
   2. Nominate volunteers around us and also createa web of volunteers to help collect and drop the donated devices to the foundation. ![Screenshot from 2021-07-30 20-01-58](https://user-images.githubusercontent.com/87887668/127668563-c2910a65-0f52-48a6-8b17-4292ebf3dff2.jpg)
 
   3. Promote donation drive amongst family, Friends , school  and amongst residential Societies
+![Screenshot from 2021-07-31 10-40-39](https://user-images.githubusercontent.com/87887668/127729407-721f4f06-57e5-4317-93b4-ce85a6bac4e9.jpg)
 
